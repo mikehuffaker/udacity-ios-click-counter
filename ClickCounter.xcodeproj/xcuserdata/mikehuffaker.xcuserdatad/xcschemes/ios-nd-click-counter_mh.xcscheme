@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CFED1DE91DB7FCE000552E81"
-               BuildableName = "ios-nd-click-counter_mh.app"
-               BlueprintName = "ios-nd-click-counter_mh"
-               ReferencedContainer = "container:ios-nd-click-counter_mh.xcodeproj">
+               BuildableName = "ClickCounter.app"
+               BlueprintName = "ClickCounter"
+               ReferencedContainer = "container:ClickCounter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CFED1DE91DB7FCE000552E81"
-            BuildableName = "ios-nd-click-counter_mh.app"
-            BlueprintName = "ios-nd-click-counter_mh"
-            ReferencedContainer = "container:ios-nd-click-counter_mh.xcodeproj">
+            BuildableName = "ClickCounter.app"
+            BlueprintName = "ClickCounter"
+            ReferencedContainer = "container:ClickCounter.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CFED1DE91DB7FCE000552E81"
-            BuildableName = "ios-nd-click-counter_mh.app"
-            BlueprintName = "ios-nd-click-counter_mh"
-            ReferencedContainer = "container:ios-nd-click-counter_mh.xcodeproj">
+            BuildableName = "ClickCounter.app"
+            BlueprintName = "ClickCounter"
+            ReferencedContainer = "container:ClickCounter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CFED1DE91DB7FCE000552E81"
-            BuildableName = "ios-nd-click-counter_mh.app"
-            BlueprintName = "ios-nd-click-counter_mh"
-            ReferencedContainer = "container:ios-nd-click-counter_mh.xcodeproj">
+            BuildableName = "ClickCounter.app"
+            BlueprintName = "ClickCounter"
+            ReferencedContainer = "container:ClickCounter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

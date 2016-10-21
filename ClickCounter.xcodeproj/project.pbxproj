@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CFED1DEA1DB7FCE000552E81 /* ios-nd-click-counter_mh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-nd-click-counter_mh.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CFED1DEA1DB7FCE000552E81 /* ClickCounter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClickCounter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFED1DED1DB7FCE000552E81 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CFED1DEF1DB7FCE000552E81 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CFED1DF21DB7FCE100552E81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		CFED1DEB1DB7FCE000552E81 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CFED1DEA1DB7FCE000552E81 /* ios-nd-click-counter_mh.app */,
+				CFED1DEA1DB7FCE000552E81 /* ClickCounter.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CFED1DE91DB7FCE000552E81 /* ios-nd-click-counter_mh */ = {
+		CFED1DE91DB7FCE000552E81 /* ClickCounter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CFED1DFC1DB7FCE100552E81 /* Build configuration list for PBXNativeTarget "ios-nd-click-counter_mh" */;
+			buildConfigurationList = CFED1DFC1DB7FCE100552E81 /* Build configuration list for PBXNativeTarget "ClickCounter" */;
 			buildPhases = (
 				CFED1DE61DB7FCE000552E81 /* Sources */,
 				CFED1DE71DB7FCE000552E81 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "ios-nd-click-counter_mh";
+			name = ClickCounter;
 			productName = "ios-nd-click-counter_mh";
-			productReference = CFED1DEA1DB7FCE000552E81 /* ios-nd-click-counter_mh.app */;
+			productReference = CFED1DEA1DB7FCE000552E81 /* ClickCounter.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -96,10 +96,11 @@
 				TargetAttributes = {
 					CFED1DE91DB7FCE000552E81 = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
-			buildConfigurationList = CFED1DE51DB7FCE000552E81 /* Build configuration list for PBXProject "ios-nd-click-counter_mh" */;
+			buildConfigurationList = CFED1DE51DB7FCE000552E81 /* Build configuration list for PBXProject "ClickCounter" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -112,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CFED1DE91DB7FCE000552E81 /* ios-nd-click-counter_mh */,
+				CFED1DE91DB7FCE000552E81 /* ClickCounter */,
 			);
 		};
 /* End PBXProject section */
@@ -253,6 +254,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Huffaker-Consulting--LLC.ios-nd-click-counter-mh";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -264,13 +266,14 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Huffaker-Consulting--LLC.ios-nd-click-counter-mh";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CFED1DE51DB7FCE000552E81 /* Build configuration list for PBXProject "ios-nd-click-counter_mh" */ = {
+		CFED1DE51DB7FCE000552E81 /* Build configuration list for PBXProject "ClickCounter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CFED1DFA1DB7FCE100552E81 /* Debug */,
@@ -279,13 +282,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CFED1DFC1DB7FCE100552E81 /* Build configuration list for PBXNativeTarget "ios-nd-click-counter_mh" */ = {
+		CFED1DFC1DB7FCE100552E81 /* Build configuration list for PBXNativeTarget "ClickCounter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CFED1DFD1DB7FCE100552E81 /* Debug */,
 				CFED1DFE1DB7FCE100552E81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
